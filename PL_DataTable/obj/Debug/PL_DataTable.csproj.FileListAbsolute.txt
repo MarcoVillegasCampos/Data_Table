@@ -1,0 +1,114 @@
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.exe.config
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.exe
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.pdb
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\PL_DataTable\bin\Debug\BLL_DataTable.dll
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\PL_DataTable\bin\Debug\DAL_DataTable.dll
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\PL_DataTable\bin\Debug\BLL_DataTable.pdb
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\PL_DataTable\bin\Debug\DAL_DataTable.pdb
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.csprojResolveAssemblyReference.cache
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.Form1.resources
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.Properties.Resources.resources
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.csproj.GenerateResource.Cache
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.exe
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.pdb
+C:\Users\PERSONAL\Desktop\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.exe.config
+C:\Users\PERSONAL\Desktop\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.exe
+C:\Users\PERSONAL\Desktop\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.pdb
+C:\Users\PERSONAL\Desktop\Data_Table\PL_DataTable\bin\Debug\BLL_DataTable.dll
+C:\Users\PERSONAL\Desktop\Data_Table\PL_DataTable\bin\Debug\DAL_DataTable.dll
+C:\Users\PERSONAL\Desktop\Data_Table\PL_DataTable\bin\Debug\BLL_DataTable.pdb
+C:\Users\PERSONAL\Desktop\Data_Table\PL_DataTable\bin\Debug\DAL_DataTable.pdb
+C:\Users\PERSONAL\Desktop\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.csprojResolveAssemblyReference.cache
+C:\Users\PERSONAL\Desktop\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.Form1.resources
+C:\Users\PERSONAL\Desktop\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.Properties.Resources.resources
+C:\Users\PERSONAL\Desktop\Data_Table\PL_DataTable\obj\Debug\PL_DataTable._PLMostrarDatos.resources
+C:\Users\PERSONAL\Desktop\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.csproj.GenerateResource.Cache
+C:\Users\PERSONAL\Desktop\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.exe
+C:\Users\PERSONAL\Desktop\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.pdb
+C:\Users\PERSONAL\Desktop\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.exe.config
+C:\Users\PERSONAL\Desktop\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.exe
+C:\Users\PERSONAL\Desktop\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.pdb
+C:\Users\PERSONAL\Desktop\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.exe
+C:\Users\PERSONAL\Desktop\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.pdb
+C:\Users\PERSONAL\Desktop\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\BLL_DataTable.dll
+C:\Users\PERSONAL\Desktop\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\DAL_DataTable.dll
+C:\Users\PERSONAL\Desktop\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\BLL_DataTable.pdb
+C:\Users\PERSONAL\Desktop\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\DAL_DataTable.pdb
+C:\Users\PERSONAL\Desktop\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.csprojResolveAssemblyReference.cache
+C:\Users\PERSONAL\Desktop\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.Form1.resources
+C:\Users\PERSONAL\Desktop\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.Properties.Resources.resources
+C:\Users\PERSONAL\Desktop\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable._PLMostrarDatos.resources
+C:\Users\PERSONAL\Desktop\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.csproj.GenerateResource.Cache
+E:\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.exe.config
+E:\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.exe
+E:\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.pdb
+E:\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\BLL_DataTable.dll
+E:\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\DAL_DataTable.dll
+E:\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\BLL_DataTable.pdb
+E:\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\DAL_DataTable.pdb
+E:\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.csprojResolveAssemblyReference.cache
+E:\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.Form1.resources
+E:\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.Properties.Resources.resources
+E:\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable._PLMostrarDatos.resources
+E:\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.csproj.GenerateResource.Cache
+E:\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.csproj.CoreCompileInputs.cache
+E:\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.exe
+E:\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.pdb
+G:\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.csprojResolveAssemblyReference.cache
+G:\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.Form1.resources
+G:\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.Properties.Resources.resources
+G:\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable._PLMostrarDatos.resources
+G:\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.csproj.GenerateResource.Cache
+G:\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.exe.config
+G:\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.exe
+G:\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.pdb
+G:\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\BLL_DataTable.dll
+G:\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\DAL_DataTable.dll
+G:\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\BLL_DataTable.pdb
+G:\Nueva carpeta\Data_Table\PL_DataTable\bin\Debug\DAL_DataTable.pdb
+G:\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.exe
+G:\Nueva carpeta\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.pdb
+C:\Users\Laboratorio x\Desktop\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.exe.config
+C:\Users\Laboratorio x\Desktop\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.exe
+C:\Users\Laboratorio x\Desktop\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.pdb
+C:\Users\Laboratorio x\Desktop\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.exe
+C:\Users\Laboratorio x\Desktop\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.pdb
+C:\Users\Laboratorio x\Desktop\Data_Table\PL_DataTable\bin\Debug\BLL_DataTable.dll
+C:\Users\Laboratorio x\Desktop\Data_Table\PL_DataTable\bin\Debug\DAL_DataTable.dll
+C:\Users\Laboratorio x\Desktop\Data_Table\PL_DataTable\bin\Debug\BLL_DataTable.pdb
+C:\Users\Laboratorio x\Desktop\Data_Table\PL_DataTable\bin\Debug\DAL_DataTable.pdb
+C:\Users\Laboratorio x\Desktop\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio x\Desktop\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.Form1.resources
+C:\Users\Laboratorio x\Desktop\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.Properties.Resources.resources
+C:\Users\Laboratorio x\Desktop\Data_Table\PL_DataTable\obj\Debug\PL_DataTable._PLMostrarDatos.resources
+C:\Users\Laboratorio x\Desktop\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.csproj.GenerateResource.Cache
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.exe.config
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.exe
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.pdb
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.exe
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.pdb
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\PL_DataTable\bin\Debug\BLL_DataTable.dll
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\PL_DataTable\bin\Debug\DAL_DataTable.dll
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\PL_DataTable\bin\Debug\BLL_DataTable.pdb
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\PL_DataTable\bin\Debug\DAL_DataTable.pdb
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.csprojResolveAssemblyReference.cache
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.Form1.resources
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.Properties.Resources.resources
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\PL_DataTable\obj\Debug\PL_DataTable._PLMostrarDatos.resources
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.csproj.GenerateResource.Cache
+C:\Users\marco\Desktop\Progra III\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.exe.config
+C:\Users\marco\Desktop\Progra III\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.exe
+C:\Users\marco\Desktop\Progra III\Data_Table\PL_DataTable\bin\Debug\PL_DataTable.pdb
+C:\Users\marco\Desktop\Progra III\Data_Table\PL_DataTable\bin\Debug\BLL_DataTable.dll
+C:\Users\marco\Desktop\Progra III\Data_Table\PL_DataTable\bin\Debug\DAL_DataTable.dll
+C:\Users\marco\Desktop\Progra III\Data_Table\PL_DataTable\bin\Debug\BLL_DataTable.pdb
+C:\Users\marco\Desktop\Progra III\Data_Table\PL_DataTable\bin\Debug\DAL_DataTable.pdb
+C:\Users\marco\Desktop\Progra III\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\Progra III\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.Form1.resources
+C:\Users\marco\Desktop\Progra III\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.Properties.Resources.resources
+C:\Users\marco\Desktop\Progra III\Data_Table\PL_DataTable\obj\Debug\PL_DataTable._PLMostrarDatos.resources
+C:\Users\marco\Desktop\Progra III\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\Progra III\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Progra III\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.csproj.CopyComplete
+C:\Users\marco\Desktop\Progra III\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.exe
+C:\Users\marco\Desktop\Progra III\Data_Table\PL_DataTable\obj\Debug\PL_DataTable.pdb

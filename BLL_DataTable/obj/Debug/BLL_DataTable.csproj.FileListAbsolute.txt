@@ -1,0 +1,52 @@
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\BLL_DataTable\bin\Debug\BLL_DataTable.dll
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\BLL_DataTable\bin\Debug\BLL_DataTable.pdb
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\BLL_DataTable\bin\Debug\DAL_DataTable.dll
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\BLL_DataTable\bin\Debug\DAL_DataTable.pdb
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.csprojResolveAssemblyReference.cache
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.dll
+c:\users\laboratorio x\documents\visual studio 2015\Projects\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.pdb
+C:\Users\PERSONAL\Desktop\Data_Table\BLL_DataTable\bin\Debug\BLL_DataTable.dll
+C:\Users\PERSONAL\Desktop\Data_Table\BLL_DataTable\bin\Debug\BLL_DataTable.pdb
+C:\Users\PERSONAL\Desktop\Data_Table\BLL_DataTable\bin\Debug\DAL_DataTable.dll
+C:\Users\PERSONAL\Desktop\Data_Table\BLL_DataTable\bin\Debug\DAL_DataTable.pdb
+C:\Users\PERSONAL\Desktop\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.csprojResolveAssemblyReference.cache
+C:\Users\PERSONAL\Desktop\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.dll
+C:\Users\PERSONAL\Desktop\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.pdb
+E:\Nueva carpeta\Data_Table\BLL_DataTable\bin\Debug\BLL_DataTable.dll
+E:\Nueva carpeta\Data_Table\BLL_DataTable\bin\Debug\BLL_DataTable.pdb
+E:\Nueva carpeta\Data_Table\BLL_DataTable\bin\Debug\DAL_DataTable.dll
+E:\Nueva carpeta\Data_Table\BLL_DataTable\bin\Debug\DAL_DataTable.pdb
+E:\Nueva carpeta\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.csprojResolveAssemblyReference.cache
+E:\Nueva carpeta\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.csproj.CoreCompileInputs.cache
+E:\Nueva carpeta\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.dll
+E:\Nueva carpeta\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.pdb
+G:\Nueva carpeta\Data_Table\BLL_DataTable\bin\Debug\BLL_DataTable.dll
+G:\Nueva carpeta\Data_Table\BLL_DataTable\bin\Debug\BLL_DataTable.pdb
+G:\Nueva carpeta\Data_Table\BLL_DataTable\bin\Debug\DAL_DataTable.dll
+G:\Nueva carpeta\Data_Table\BLL_DataTable\bin\Debug\DAL_DataTable.pdb
+G:\Nueva carpeta\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.csprojResolveAssemblyReference.cache
+G:\Nueva carpeta\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.dll
+G:\Nueva carpeta\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.pdb
+C:\Users\Laboratorio x\Desktop\Data_Table\BLL_DataTable\bin\Debug\BLL_DataTable.dll
+C:\Users\Laboratorio x\Desktop\Data_Table\BLL_DataTable\bin\Debug\BLL_DataTable.pdb
+C:\Users\Laboratorio x\Desktop\Data_Table\BLL_DataTable\bin\Debug\DAL_DataTable.dll
+C:\Users\Laboratorio x\Desktop\Data_Table\BLL_DataTable\bin\Debug\DAL_DataTable.pdb
+C:\Users\Laboratorio x\Desktop\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio x\Desktop\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.dll
+C:\Users\Laboratorio x\Desktop\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.pdb
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\BLL_DataTable\bin\Debug\BLL_DataTable.dll
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\BLL_DataTable\bin\Debug\BLL_DataTable.pdb
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\BLL_DataTable\bin\Debug\DAL_DataTable.dll
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\BLL_DataTable\bin\Debug\DAL_DataTable.pdb
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.csprojResolveAssemblyReference.cache
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.dll
+F:\2018_I_C\01 - ISI-BSI-09 - Programación III\Clases\Sem_8\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.pdb
+C:\Users\marco\Desktop\Progra III\Data_Table\BLL_DataTable\bin\Debug\BLL_DataTable.dll
+C:\Users\marco\Desktop\Progra III\Data_Table\BLL_DataTable\bin\Debug\BLL_DataTable.pdb
+C:\Users\marco\Desktop\Progra III\Data_Table\BLL_DataTable\bin\Debug\DAL_DataTable.dll
+C:\Users\marco\Desktop\Progra III\Data_Table\BLL_DataTable\bin\Debug\DAL_DataTable.pdb
+C:\Users\marco\Desktop\Progra III\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\Progra III\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Progra III\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.csproj.CopyComplete
+C:\Users\marco\Desktop\Progra III\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.dll
+C:\Users\marco\Desktop\Progra III\Data_Table\BLL_DataTable\obj\Debug\BLL_DataTable.pdb
